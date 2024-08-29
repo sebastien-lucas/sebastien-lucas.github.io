@@ -1,0 +1,79 @@
+#+SETUPFILE: theme-bigblow-local.setup
+#+OPTIONS: toc:nil num:nil html-style:nil prop:t
+#+HTML_HEAD_EXTRA:<link rel="stylesheet" href="style.css">
+#+HTML_HEAD_EXTRA:<link rel="icon" type="image/x-icon" href="img/favicon.ico">
+#+TITLE: Personal page of Pierre Wulles
+
+
+* Home
+** English
+On this page, you will find content related to my research work at
+LPMMC, my teaching at UGA, and more broadly related to physics or
+computer science.
+
+Here is a link to my GitLab: [[https://gitlab.com/starcluster/][starcluster]]
+** Français
+Sur cette page vous trouverez des contenus relatifs à mes travaux de
+recherche au LPMMC, à mon enseignement à l'UGA et plus largement 
+concernant la physique ou l'informatique.
+
+Voici un lien vers mon gitlab:
+
+
+* Teaching
+#+HTML: <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-easel2-fill" viewBox="0 0 16 16">  <path d="M8.447.276a.5.5 0 0 0-.894 0L7.19 1H2.5A1.5 1.5 0 0 0 1 2.5V10h14V2.5A1.5 1.5 0 0 0 13.5 1H8.809L8.447.276Z"/>  <path fill-rule="evenodd" d="M.5 11a.5.5 0 0 0 0 1h2.86l-.845 3.379a.5.5 0 0 0 .97.242L3.89 14h8.22l.405 1.621a.5.5 0 0 0 .97-.242L12.64 12h2.86a.5.5 0 0 0 0-1H.5Zm3.64 2 .25-1h7.22l.25 1H4.14Z"/></svg> 
+** Algorithmique et programmation fonctionelle ~inf201~
+
+Quelques liens qui peuvent être utiles:
+- [[https://try.ocaml.pro/][OcamlPro]] pour utiliser OCaml en ligne
+- [[https://v2.ocaml.org/releases/4.14/htmlman/index.html][Doc d'OCaml]] la bible sur OCaml, exhaustif mais parfois un peu ardue (anglais)
+- [[https://ocaml.gelez.xyz/][Cours]] d'informatique qui suit le programme d'inf201 (français)
+  
+* Talks
+
+Slides of talks I have given:
+
+* Research
+#+HTML:<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightbulb" viewBox="0 0 16 16">  <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a1.964 1.964 0 0 0-.453-.618A5.984 5.984 0 0 1 2 6zm6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1z"/></svg>
+
+** Introduction
+*** English
+
+My research focuses on networks of point-like scatterers, specifically
+on honeycomb networks in two dimensions. I study the transition
+towards disordered systems using topological markers such as the Chern
+number. I use numerous numerical simulations to study these systems.
+
+These research works are theoretical, but they may have practical
+applications in various fields such as photonics and acoustics.
+
+*** Français
+
+Mes recherches portent sur les réseaux de diffuseurs ponctuels, plus
+spécifiquement sur les réseaux en nid d'abeille en deux
+dimensions. J'étudie la transition vers les systèmes désordonnés à
+l'aide de marqueurs topologiques tels que le nombre de Chern. J'ai
+recours à de nombreuses simulations numériques pour étudier ces
+systèmes.
+
+Ces recherches sont théoriques, mais elles peuvent avoir des
+applications pratiques dans différents domaines tels que la photonique
+et l'acoustique.
+
+
+* CV
+*PDF version [[file:docs/cv.pdf][here]] with detailed bibliography*
+
+** Personal Information
+- Name: Pierre Wulles
+- Title: Phd Student
+- Address: LPMMC, CNRS and Université Grenoble Alpes, 38000 Grenoble, France
+- Email: pierre.wulles at lpmmc.cnrs.fr
+
+* Links
+
+** Interesting papers
+- https://www.experimental-history.com/p/things-could-be-better
+- https://nickbostrom.com/papers/vulnerable.pdf
+- https://www.europhysicsnews.org/articles/epn/abs/2024/01/epn2024551p29/epn2024551p29.html
+
