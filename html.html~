@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-08-31 sam. 00:10 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Personal page of Sébastien LUCAS</title>
+<meta name="author" content="Sébastien Lucas" />
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" type="text/css" href="src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="src/lib/js/jquery.stickytableheaders.min.js"></script>
+<link rel="icon" type="image/x-icon" href="img/logo.ico">
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Personal page of Sébastien LUCAS</h1>
+
+<div id="outline-container-orge7a1f0a" class="outline-2">
+<h2 id="orge7a1f0a"><img src="img/home-logo-mini.png" alt="home-logo-mini.png" /> Home</h2>
+<div class="outline-text-2" id="text-orge7a1f0a">
+<p>
+Welcome to my personal webpage where you can find out more about my research as a PhD student in <a href="https://lpmmc.cnrs.fr/">LPMMC</a>, Grenoble, but also additional ressources and my contact informations.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86a909d" class="outline-2">
+<h2 id="org86a909d"><img src="img/research-logo-mini.png" alt="research-logo-mini.png" />  Research</h2>
+<div class="outline-text-2" id="text-org86a909d">
+</div>
+<div id="outline-container-org14b1276" class="outline-3">
+<h3 id="org14b1276">Introduction</h3>
+<div class="outline-text-3" id="text-org14b1276">
+<p>
+My PhD focuses on the interaction of light with both ordered and disordered atomic lattices, mainly in 2D,
+with the focus on large and dense, “mesoscopic” ensembles of cold atoms. The particularity of the mesoscopic
+ regime is that the medium is not yet dense enough to be considered continuous but is already sufficiently dense
+ for single-atom considerations to become inadequate. This work is directed by Dr. <a href="https://lpmmc.cnrs.fr/spip.php?article181">Sergey Skipetrov</a> 
+ and Dr.<a href="https://majulab.cnrs.fr/christian-miniatura-personal-page/">Christian Miniatura</a> at the Laboratory 
+ of Physics and Modelization of Condensed Media (<a href="https://lpmmc.cnrs.fr/">LPMMC</a>) of CNRS, Grenoble, France. 
+ Our approach is both numerical and analytical, and relevant for an experimental realization in 
+ Pr. <a href="https://www.quantumlah.org/research/group/David-Wilkowski">David Wilkowski</a>’s lab at Nanyang Technological 
+ University, Singapore.
+</p>
+
+
+<div id="org326e910" class="figure">
+<p><img src="img/random_disk_FP_pierre.png" alt="random_disk_FP_pierre.png" width="800px" />
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd8956f3" class="outline-3">
+<h3 id="orgd8956f3">Communication</h3>
+<div class="outline-text-3" id="text-orgd8956f3">
+</div>
+<div id="outline-container-orgeb364c7" class="outline-4">
+<h4 id="orgeb364c7">Talks</h4>
+</div>
+
+<div id="outline-container-orge3a4b02" class="outline-4">
+<h4 id="orge3a4b02">Posters</h4>
+<div class="outline-text-4" id="text-orge3a4b02">
+<p>
+Poster presented in April 2024 at <a href="https://complexmedia2024.sciencesconf.org/">Wave Propagation and Control in Complex Media 2024: Mesoscopic Phenomena and Applications</a>.
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org94ed8d0" class="outline-2">
+<h2 id="org94ed8d0"><img src="img/projects-logo-mini.png" alt="projects-logo-mini.png" /> Other projects</h2>
+<div class="outline-text-2" id="text-org94ed8d0">
+</div>
+<div id="outline-container-orgfe690d5" class="outline-3">
+<h3 id="orgfe690d5">Des pictogrammes pour révéler le danger invisible de la radioactivité, la nature iconographique des pictogrammes en fait-elle un langage universel ?</h3>
+<div class="outline-text-3" id="text-orgfe690d5">
+<p>
+Issue written for of a written communication project at ESPCI, can be accessed <a href="https://github.com/sebastien-lucas/personal-material/blob/0aa1fa7f13c78b02098bef573bbb46750ab188b6/PACE%20-%20S%C3%A9bastien%20Lucas.pdf">here</a> [in french].
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org58c1cc7" class="outline-2">
+<h2 id="org58c1cc7"><img src="img/cv-logo-mini.png" alt="cv-logo-mini.png" /> Personal informations</h2>
+<div class="outline-text-2" id="text-org58c1cc7">
+</div>
+<div id="outline-container-orgb0b53ff" class="outline-3">
+<h3 id="orgb0b53ff">Contact information</h3>
+<div class="outline-text-3" id="text-orgb0b53ff">
+<ul class="org-ul">
+<li>Name: Sébastien LUCAS</li>
+<li>Occupation: Phd Student</li>
+<li>Address: LPMMC, CNRS and Université Grenoble Alpes, 38000 Grenoble (France)</li>
+<li>Email: sebastien.lucas at lpmmc.cnrs.fr</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org086598c" class="outline-3">
+<h3 id="org086598c">CV</h3>
+<div class="outline-text-3" id="text-org086598c">
+<p>
+PDF version <a href="docs/cv.pdf">here</a>
+</p>
+</div>
+
+<div id="outline-container-org5ccf82f" class="outline-4">
+<h4 id="org5ccf82f">Experience</h4>
+<div class="outline-text-4" id="text-org5ccf82f">
+</div>
+<ul class="org-ul">
+<li><a id="org403d424"></a>1<br /></li>
+<li><a id="org8335db9"></a>2<br /></li>
+</ul>
+</div>
+
+<div id="outline-container-org06ba82c" class="outline-4">
+<h4 id="org06ba82c">Formation</h4>
+<div class="outline-text-4" id="text-org06ba82c">
+</div>
+<ul class="org-ul">
+<li><a id="org7c7df91"></a>1<br /></li>
+<li><a id="org204aeed"></a>2<br /></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org0772dce" class="outline-2">
+<h2 id="org0772dce"><img src="img/links-logo-mini.png" alt="links-logo-mini.png" /> Links</h2>
+<div class="outline-text-2" id="text-org0772dce">
+</div>
+<div id="outline-container-org4198018" class="outline-3">
+<h3 id="org4198018">GitHub</h3>
+<div class="outline-text-3" id="text-org4198018">
+<p>
+Link to my <a href="https://github.com/sebastien-lucas/sebastien-lucas.github.io/commit/e2a7616107ca75e58948565c338d09d36c5e1d6a">GitHub</a>, and a specific <a href="https://github.com/sebastien-lucas/sebastien-lucas.github.io/commit/e2a7616107ca75e58948565c338d09d36c5e1d6a">example</a> of code realized as part of my research work.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd16c990" class="outline-3">
+<h3 id="orgd16c990">LinkedIn</h3>
+<div class="outline-text-3" id="text-orgd16c990">
+<p>
+Link to my <a href="https://www.linkedin.com/in/s%C3%A9bastien-lucas-671a851b3/">LinkedIn profile</a>.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Sébastien Lucas</p>
+<p class="date">Created: 2024-08-31 sam. 00:10</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
